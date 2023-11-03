@@ -4,7 +4,7 @@ typedef unsigned int UINT;
 
 int OFF_BIT(UINT iNo)
 {
-
+    
 }
 
 int main()
